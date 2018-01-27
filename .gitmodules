@@ -1,0 +1,3 @@
+[submodule "apps/AlexaTestSkill"]
+	path = apps/AlexaTestSkill
+	url = https://github.com/sameerrai28/AlexaTestSkill
